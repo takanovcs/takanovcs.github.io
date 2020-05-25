@@ -1,29 +1,22 @@
-# Dependencies
-markdown:         kramdown
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "page:num"
-
 # Setup
-title:            Code-Flava
-tagline:          'Programming school'
-description:      'Just a personal blog with programming tips mainly using python for basic algorithms and basic machine learning concepts. Our objective it is to create useful and easy articles to our readers.'
-url:              http://takanovcs.github.io
-baseurl:          /
+title:               code-flava
+tagline:             'code-flava-school'
+description:         'Just a personal blog with programming tips mainly using python for basic algorithms and basic machine learning concepts. Our objective it is to create useful and easy articles to our readers.'
+url:                 http://takanovcs.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
 
+# About/contact
 author:
-  name:           'Kevin Takano'
-  url:            https://www.linkedin.com/in/kevin-takano-b8ab9bb4/
+  name:              Kevin Takano
+  url:               https://www.linkedin.com/in/kevin-takano-b8ab9bb4/
+  email:             kevin.takano@gmail.com
 
-paginate:         5
+# Gems
+plugins:
+  - jekyll-paginate
 
 # Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
