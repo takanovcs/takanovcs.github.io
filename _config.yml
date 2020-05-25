@@ -10,15 +10,15 @@ paginate: 5
 paginate_path: "page:num"
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Code-Flava
+tagline:          'Programming school'
+description:      'Just a personal blog with programming tips mainly using python for basic algorithms and basic machine learning concepts. Our objective it is to create useful and easy articles to our readers.'
+url:              http://takanovcs.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Kevin Takano'
+  url:            https://www.linkedin.com/in/kevin-takano-b8ab9bb4/
 
 paginate:         5
 
