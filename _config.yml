@@ -2,7 +2,7 @@
 title:               code-flava
 tagline:             'code-flava-school'
 description:         'Just a personal blog with programming tips mainly using python for basic algorithms and basic machine learning concepts. Our objective it is to create useful and easy articles to our readers.'
-url:                 https://takanovcs.github.io
+url:                 http://takanovcs.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
